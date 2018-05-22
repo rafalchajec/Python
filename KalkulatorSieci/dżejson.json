@@ -1,0 +1,12 @@
+["Adres sieci : 192.144.123.0/24",
+ "Adres klasy C",
+ "Maska dziesietny: 255.255.255.0",
+ "Maska binarny: 11111111.11111111.11111111.00000000",
+ "Broadcast dziesietny: 192.144.123.255",
+ "Broadcast binarny: 11000000.10010000.01111011.11111111",
+ "Min host dziesietny: 192.144.123.1",
+ "Min host binarny: 11000000.10010000.01111011.00000001",
+ "Max host dziesietny: 192.144.123.254",
+ "Max host binarny: 11000000.10010000.01111011.11111110",
+ "Dostepne adresy IP dziesietny: 254",
+ "Dostepne adresy IP binarny: 11111110"]
